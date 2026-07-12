@@ -381,7 +381,9 @@ Este proyecto se distribuye bajo la licencia **MIT**, permitiendo su uso, modifi
 
 ---
 
-# 👨‍💻 Autor
+# 👨‍💻 Desarrollador
+
+**Isai Reyes - FullStack Developer**
 
 Desarrollado como un **Sistema Web de Gestión de Ventas** utilizando **Spring Boot**, **Spring Security**, **Spring Data JPA**, **Hibernate** y **MySQL**, siguiendo una arquitectura limpia y escalable basada en buenas prácticas de desarrollo empresarial.
 
