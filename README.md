@@ -190,7 +190,7 @@ El proyecto sigue una arquitectura por capas basada en Spring Boot.
 # 📂 Estructura del Proyecto
 
 ```text
-SistemaVentas/
+SisVentas/
 │
 ├── src/
 │   ├── main/
@@ -228,13 +228,13 @@ SistemaVentas/
 ## 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/usuario/sistema-ventas.git
+git clone https://github.com/isaireyesp1/SisVentas.git
 ```
 
 Entrar al proyecto
 
 ```bash
-cd sistema-ventas
+cd SisVentas
 ```
 
 ---
